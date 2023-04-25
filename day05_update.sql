@@ -59,3 +59,5 @@ SET iletisim_isim = 'Ayse Can'
 WHERE iletisim_isim = 'Osman Can';
 
 
+
+
